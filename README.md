@@ -27,7 +27,7 @@ The challenge: **How can we transform raw match data into actionable insights fo
 - **Design Branding** – Premier League colors, storytelling
 
 ## Dashbord
-[  https://github.com/OLDUNAMIS/-Premier-League-2020-21-Season-in-Numbers-The-Story-Behind-the-Stats-/blob/main/epl_2020_2021_full_dashboard_img.png](https://github.com/OLDUNAMIS/-Premier-League-2020-21-Season-in-Numbers-The-Story-Behind-the-Stats-/blob/main/epl_2020_2021_full_dashboard_img.png)
+<img width="713" height="1600" alt="Image" src="https://github.com/user-attachments/assets/f75e1832-d66b-45a6-b64d-b01cd4694060" />
 
 - ## 📊 Key Insights
 - ⚽ **1,024 goals scored** → almost perfectly balanced (514 home, 510 away)  
