@@ -35,7 +35,9 @@ The challenge: **How can we transform raw match data into actionable insights fo
 - 🎯 **9,188 shots attempted** → nearly 24 per game, showing relentless attacking play  
 - 🚨 **Discipline** → 8,274 fouls, 1,091 yellow cards, 46 reds – margins between control and chaos  
 - 📈 **Monthly Trends** → December peaked with 180 goals, April slumped with 97  
-- ⚖️ **Perfect Symmetry** → Goals scored = goals conceded across season  
+- ⚖️ **Perfect Symmetry** → Goals scored = goals conceded across season
+
+- <img width="1318" height="734" alt="Image" src="https://github.com/user-attachments/assets/3163108f-4574-4690-a2e2-23bb9d304874" />
 
 ## ✅ Recommendations
 - **Clubs & Coaches** → Rethink home advantage strategies; adaptability is key.  
